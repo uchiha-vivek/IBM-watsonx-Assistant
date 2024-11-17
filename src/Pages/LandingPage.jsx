@@ -8,7 +8,7 @@ const LandingPage = () => {
       {/* Navbar */}
       <header className="bg-black py-4 shadow-md">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-white">MediCare</h1>
+          <h1 className="text-2xl font-bold text-white">Ally Care</h1>
           <button className="bg-blue-600 text-white py-2 px-4 rounded-full font-semibold shadow-md hover:bg-blue-700">
             Login
           </button>
@@ -58,7 +58,7 @@ const LandingPage = () => {
 
       {/* Footer */}
       <footer className="bg-black text-gray-400 text-center py-6">
-        <p>&copy; 2024 MediCare. All rights reserved.</p>
+        <p>&copy; 2024  Ally Care . All rights reserved.</p>
       </footer>
 
       {/* Watson Assistant Chat */}
