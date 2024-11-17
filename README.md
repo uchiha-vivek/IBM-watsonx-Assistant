@@ -1,5 +1,5 @@
 
-#  Ally Care  :  " Smart Assitant Bot for simplifying your issue  " . .
+#  Ally Care  :  " Smart Assitant Bot for simplifying your issue  " 
  
 ![Ally Care](https://github.com/uchiha-vivek/IBM-watsonx-Assistant)
 
